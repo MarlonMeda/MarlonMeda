@@ -1,8 +1,10 @@
 # 👋 Hola, soy Marlon
 
-💻 Estudiante de programación  
+
+
+💻 Estudiante de programación
 ⚙️ Desarrollo de aplicaciones en C# y bases de datos  
-🚀 Apasionado por aprender y mejorar cada día  
+🚀 Apasionado por aprender y mejorar cada día más 
 
 ---
 
@@ -16,7 +18,8 @@
 
 ## 📌 Proyectos
 🔹 Sistema bancario en C#  
-🔹 Sistema de notas  
+🔹 Sistema de notas
+🔹 
 🔹 Aplicaciones de escritorio  
 
 ---
@@ -28,7 +31,8 @@
 ---
 
 ## 📫 Contacto
-📧 tuemail@gmail.com
+📧 MarlonMeda2@gmail.com
+
 
 ---
 
