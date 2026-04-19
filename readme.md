@@ -23,8 +23,7 @@
 🔹 Sistema de notas
 🔹 Sistema de planillas
 🔹 Sistema de citas medicas 
-🔹 sistema de colegio
-🔹 Juego "totito" en consola
+
 
 
 ---
